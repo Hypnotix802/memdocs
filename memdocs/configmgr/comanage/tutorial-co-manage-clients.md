@@ -128,7 +128,7 @@ Next, we'll set up auto-enrollment of devices with Intune. With automatic enroll
 
 Automatic enrollment also lets users enroll their Windows 10 or later devices to Intune. Devices enroll when a user adds their work account to their personally owned device, or when a corporate-owned device is joined to Azure Active Directory.  
 
-1. Sign in to the [Azure portal](https://portal.azure.com/) and select **Azure Active Directory** > **Mobility (MDM and MAM)** > **Microsoft Intune**.  
+1. Sign in to the [Azure portal](https://portal.azure.com/) and select **Azure Active Directory** >**Settings**> **Mobility (MDM and MAM)** > **Microsoft Intune**.  
 
 2. Configure **MDM user scope**. Specify one of the following to configure which users' devices are managed by Microsoft Intune and accept the defaults for the URL values.  
 
